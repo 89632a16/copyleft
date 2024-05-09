@@ -1,0 +1,2 @@
+# copyleft
+copyleft.name
